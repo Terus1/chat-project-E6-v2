@@ -4,7 +4,7 @@
 # Установка и запуск
 1. Клонируйте репозиторий:
 
-git clone https://github.com/Terus1/chat-project-E6.git
+git clone https://github.com/Terus1/chat-project-E6-v2.git
 
 2. Зайдите в папку с проектом:
 
